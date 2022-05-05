@@ -1,5 +1,5 @@
 # MANGO-DELIVERY-CSS-PROJECT
-MANGO DELIVERY CSS HTML ONLY (STATIC PROJECT)
+MANGO DELIVERY, CSS HTML ONLY
 
 Inspired From Wolt website
 https://wolt.com/en/isr/tel-aviv
